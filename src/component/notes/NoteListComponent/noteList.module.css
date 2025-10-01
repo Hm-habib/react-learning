@@ -1,0 +1,17 @@
+.mainContainer{
+width: 50%;
+margin: 0 auto;
+padding-top: 20px;
+}
+
+.noteExpand{
+    display: none;
+}
+.noteExpanded{
+    display: flex;
+    background-color: rgb(238, 238, 238);
+   
+}
+.backgroundColor{
+    background-color: rgb(238, 238, 238);
+}
